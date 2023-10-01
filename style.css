@@ -46,11 +46,19 @@ hr {
   border-width: 2px;
   color: #003049;
 }
-
+.main-nav {
+  text-align: center;
+}
+.main-nav a {
+  display: inline;
+  margin-right: 20px;
+}
 a {
   color: #d62828;
 }
 a:hover {
   color: #f77f00;
 }
-
+footer {
+  text-align: center;
+}
